@@ -1,0 +1,2 @@
+rostopic pub /teacher/ik_vel geometry_msgs/Pose '{position: {x: 0.1, y: 0.1, z: 0.1}}'
+ 

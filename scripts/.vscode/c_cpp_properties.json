@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/kim/catkin_ws/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/kim/catkin_ws/src/DynamixelSDK/ros/include",
+                "/home/kim/catkin_ws/src/dynamixel-workbench/dynamixel_workbench_controllers/include",
+                "/home/kim/catkin_ws/src/dynamixel-workbench/dynamixel_workbench_operators/include",
+                "/home/kim/catkin_ws/src/dynamixel-workbench/dynamixel_workbench_single_manager/include",
+                "/home/kim/catkin_ws/src/dynamixel-workbench/dynamixel_workbench_single_manager_gui/include",
+                "/home/kim/catkin_ws/src/dynamixel-workbench/dynamixel_workbench_toolbox/include",
+                "/home/kim/catkin_ws/src/modud_kair_control/include",
+                "/home/kim/catkin_ws/src/open_manipulator/open_manipulator_control_gui/include",
+                "/home/kim/catkin_ws/src/open_manipulator/open_manipulator_controller/include",
+                "/home/kim/catkin_ws/src/open_manipulator/open_manipulator_libs/include",
+                "/home/kim/catkin_ws/src/open_manipulator/open_manipulator_moveit/include",
+                "/home/kim/catkin_ws/src/open_manipulator/open_manipulator_teleop/include",
+                "/home/kim/catkin_ws/src/robotis_manipulator/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
